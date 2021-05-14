@@ -14,7 +14,7 @@ You will be asked to:
 
 The task is designed to demonstrate your ability to use new technology, to interpret specifications, solve programming problems, and show an understanding of test coverage.
 
-The task is intended to take no more than 2 or 3 hours. If you overrun significantly then please get in touch to discuss - we may have misjudged the timing of the task.
+The task is intended to take no more than 2 or 3 hours. If you overrun significantly then please get in touch as we may have misjudged the timing of the task.
 
 ## Getting set up
 
@@ -69,7 +69,7 @@ Please do the following:
      2. a subheading (not mandatory, max 200 characters)
   2. Populate the new fields using the admin site.
   3. Add a new test case that checks if `str(post)` returns the post title for a Post object.
-  4. Add a second test case that creates a Post, then checks if the index view of the application contains a post title.
+  4. Add a second test case that creates a Post, then checks if the index view of the application contains the title of the post.
 
 Refer to https://docs.djangoproject.com/en/1.11/topics/migrations/#workflow for steps to get your model changes into the database.
 
@@ -85,4 +85,4 @@ Please do not file a pull request against the original repo - other candidates w
 
 Feel free to provide any explanatory notes in along with you submission.
 
-If anything is unclear, please do no hesitate to get in touch!
+If anything is unclear, please do nou hesitate to get in touch!
